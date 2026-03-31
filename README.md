@@ -4,7 +4,8 @@ Untuk Menjalankan Test Katalon :
 3. Buat Test Suite Baru
 4. Tambahkan Test data Excel "testdata.xlsx" dengan cara add New Test data, kemudian import file "testdata.xlsx maka data akan muncul pada layar katalon
 5. Tambahkan Testcase pada Test suite
-6. Hubungkan (Mapping) Variabel yang sudah di set pada Testcase dengan Testdata yang sudah di impor dengan cara
+6. Hubungkan (Mapping) Variabel yang sudah di set pada Testcase dengan Testdata yang sudah di impor dengan cara klik show data binding -> Use variables and Binding at Test Suite -> click Add -> kemudian pilih testdata -> map All
+7. Run Test Suite
 
 
 
